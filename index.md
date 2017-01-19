@@ -2,4 +2,4 @@
 
 Graduate student and research assistant at CU Anschutz
 
-<annie.thwing@ucdenver.edu>
+annie dot thwing @ ucdenver dot edu
