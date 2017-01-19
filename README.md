@@ -3,7 +3,7 @@
 Graduate student at CU Anschutz working with Sharon Lutz.
 
 Links:
-[Background] (https://github.com/athwing.github.io/background.md)
+[Background] (http://wwww.google.com)
 
 You can use the [editor on GitHub](https://github.com/athwing/athwing.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
