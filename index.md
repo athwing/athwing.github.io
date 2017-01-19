@@ -3,4 +3,6 @@
 
 ## About
 
-Graduate student at CU Anschutz working with Sharon Lutz.
+Graduate student and research assistant at CU Anschutz
+
+<annie.thwing@ucdenver.edu>
