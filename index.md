@@ -1,4 +1,4 @@
-##[About](https://github.com/athwing/athwing.github.io)    [Background](https://github.com/athwing/athwing.github.io/background.md)    [Research](https://github.com/athwing/athwing.github.io/research.md)
+[About](https://athwing.github.io)    [Background](https://athwing.github.iobackground.md)    [Research](https://athwing.github.io/research.md)
 
 Graduate student at CU Anschutz working with Sharon Lutz.
 
