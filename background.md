@@ -2,4 +2,4 @@
 
 ## Background
 
-Graduated from Point Loma Nazarene University May 7. 2016
+Graduated from Point Loma Nazarene University May 7, 2016
