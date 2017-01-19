@@ -5,8 +5,6 @@ Graduate student at CU Anschutz working with Sharon Lutz.
 Links:
 [Background] (https://github.com/athwing/athwing.github.io/background.md)
 
-[Research] (https://github.com/athwing/athwing.github.io/research.md)
-
 You can use the [editor on GitHub](https://github.com/athwing/athwing.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
