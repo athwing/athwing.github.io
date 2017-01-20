@@ -37,5 +37,5 @@ QA Analyst<br>
 •	R package to analyze secondary phenotype in genetic association studies <br>
 •	R package to create power plots for eQTL analysis of RNAseq data<br>
 •	R package to test for pleiotropy in genetic association studies<br>
-•	R package to account for unmeasured confounding in mediation analysis
- with Dr. Sharon Lutz at the University of Colorado, [https://github.com/SharonLutz/software]
+•	R package to account for unmeasured confounding in mediation analysis<br>
+  *with Dr. Sharon Lutz at the University of Colorado, [here](https://github.com/SharonLutz/software)
