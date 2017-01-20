@@ -1,7 +1,7 @@
 ### [About](https://athwing.github.io)  |  [Education](https://athwing.github.io/education) |  [Experience](https://athwing.github.io/experience)
 
 ### EXPERIENCE
-**University of Colorado, Anschutz Medical Campus, Aurora, CO**  <br> *Aug 2016 –present*<br>
+**University of Colorado, Anschutz Medical Campus, Aurora, CO** <br> *Aug 2016 –present*<br>
 *Graduate Research Assistant for Dr. Sharon Lutz in the Department of Biostatistics and Informatics*<br>
 •	Created various R packages to implement novel methods in statistical genetics<br>
 •	Created website for Dr Lutz on github<br>
@@ -33,3 +33,9 @@ QA Analyst<br>
 ### TECHNICAL SKILLS
 •	R, SAS, Java, Python, C++, UNIX, MATLAB, Microsoft Project Server, Git
 
+### SOFTWARE DEVELOPMENT
+•	R package to analyze secondary phenotype in genetic association studies 
+•	R package to create power plots for eQTL analysis of RNAseq data
+•	R package to test for pleiotropy in genetic association studies
+•	R package to account for unmeasured confounding in mediation analysis
+    o	with Dr. Sharon Lutz at the University of Colorado [](https://github.com/SharonLutz/software)
