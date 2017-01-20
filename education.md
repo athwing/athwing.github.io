@@ -7,7 +7,7 @@ MS: Biostatistics
 
 **Point Loma Nazarene University, San Diego, CA**<br>
 *Aug 2013-May 2016*<br>
-BA: Mathematics and Computer Science
+BS: Mathematics and Computer Science
 
 ### COURSEWORK
 **University of Colorado, Anschutz Medical Campus, Aurora, CO** <br>
