@@ -34,8 +34,8 @@ QA Analyst<br>
 •	R, SAS, Java, Python, C++, UNIX, MATLAB, Microsoft Project Server, Git
 
 ### SOFTWARE DEVELOPMENT
-•	R package to analyze secondary phenotype in genetic association studies 
-•	R package to create power plots for eQTL analysis of RNAseq data
-•	R package to test for pleiotropy in genetic association studies
-•	R package to account for unmeasured confounding in mediation analysis
-    o	with Dr. Sharon Lutz at the University of Colorado [](https://github.com/SharonLutz/software)
+•	R package to analyze secondary phenotype in genetic association studies <br>
+•	R package to create power plots for eQTL analysis of RNAseq data<br>
+•	R package to test for pleiotropy in genetic association studies<br>
+•	R package to account for unmeasured confounding in mediation analysis<br>
+    o	with Dr. Sharon Lutz at the University of Colorado [https://github.com/SharonLutz/software]
