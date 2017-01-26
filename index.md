@@ -1,6 +1,6 @@
 <head>
   <meta charset="UTF-8">
-  <meta name="keywords" content="Annie Thwing,Colorado,biostatistics">
+  <meta name="keywords" content="Annie,Thwing,Colorado,biostatistics">
   <meta name="author" content="Annie Thwing">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
