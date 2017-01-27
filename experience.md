@@ -1,7 +1,3 @@
-<head>
-<meta name='keywords' content="Annie, Thwing, biostatistics, Colorado, Denver, student, researcher, experience">
-</head>
-
 ### [About](https://athwing.github.io)  |  [Education](https://athwing.github.io/education) |  [Experience](https://athwing.github.io/experience)
 
 ### EXPERIENCE
