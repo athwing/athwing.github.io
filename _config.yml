@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Annie Thwing
 url: athwing.github.io
+gems:
+  - jekyll-seo-tag
