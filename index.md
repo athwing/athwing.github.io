@@ -5,4 +5,4 @@ at the University of Colorado, Anschutz Medical Campus
 
 annie dot thwing @ ucdenver dot edu
 
-![GitHub Logo](/IMG_0985.JPG)
+![About Me](/IMG_0985.JPG)
