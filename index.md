@@ -4,5 +4,3 @@ Masters in Biostatistics Candidate and Graduate Research Assistant <br>
 at the University of Colorado, Anschutz Medical Campus
 
 annie dot thwing @ ucdenver dot edu
-
-![About Me](/IMG_0985.JPG)
