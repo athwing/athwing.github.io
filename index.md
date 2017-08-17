@@ -1,6 +1,10 @@
 ### [About](https://athwing.github.io)  |  [Education](https://athwing.github.io/education) |  [Experience](https://athwing.github.io/experience)
 
-Masters in Biostatistics Candidate and Graduate Research Assistant <br>
-at the University of Colorado, Anschutz Medical Campus
+### ABOUT
+I am a second year MS biostatistics student at the University of Anschutz medical campus. Since August 2016 I have been a graduate research assistant for Dr. Sharon Lutz[link] and the COPDGene [link] study.  My research interests include biostatistics, bioinformatics and statistical genetics and genomics. 
 
+### CONTACT INFORMATION
 annie dot thwing @ ucdenver dot edu
+
+### TECHNICAL SKILLS
+•	R, SAS, Java, Python, C++, UNIX, MATLAB, Microsoft Project Server, Git
