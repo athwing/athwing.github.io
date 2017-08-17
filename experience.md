@@ -29,13 +29,3 @@ QA Analyst<br>
 •	Utilized Selenium framework to automate regression tests for a customized tool to run on multiple browsers<br>
 •	Documented a user guide for those with no background knowledge on the tool<br>
 •	Met with customers and went over requirements, deadlines, etc.<br>
-
-### TECHNICAL SKILLS
-•	R, SAS, Java, Python, C++, UNIX, MATLAB, Microsoft Project Server, Git
-
-### SOFTWARE DEVELOPMENT
-•	R package to analyze secondary phenotype in genetic association studies <br>
-•	R package to create power plots for eQTL analysis of RNAseq data<br>
-•	R package to test for pleiotropy in genetic association studies<br>
-•	R package to account for unmeasured confounding in mediation analysis<br>
-  *with Dr. Sharon Lutz at the University of Colorado, [here](https://github.com/SharonLutz/software)
