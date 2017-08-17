@@ -3,8 +3,8 @@
 ### EXPERIENCE
 **University of Colorado, Anschutz Medical Campus, Aurora, CO** <br> *Aug 2016 –present*<br>
 *Graduate Research Assistant for Dr. Sharon Lutz in the Department of Biostatistics and Informatics*<br>
-•	Created various R packages to implement novel methods in statistical genetics<br>
-•	Created website for Dr Lutz on github<br>
+•	Created various R packages to implement novel methods in statistical genetics on [Github](https://github.com/SharonLutz)<br>
+•	Created website for Dr Lutz on [github](https://sharonlutz.github.io/)<br>
 •	Created regional plots for GWAS of Coronary Artery Calcium<br>
 
 **Point Loma Nazarene University, San Diego, CA** <br>*Sep 2015 –May 2016*<br>
