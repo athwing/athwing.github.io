@@ -13,7 +13,7 @@ BS: Mathematics and Computer Science
 **University of Colorado, Anschutz Medical Campus, Aurora, CO** <br>
 *Aug 2016-May 2018*<br>
 *Biostatistics and Informatics Coursework (Graduate level):*<br>
-•	Statistical Theory 1 &2, Biostatistical Methods 1 &2, Statistical Consulting 1&2 
+•	Statistical Theory 1 &2, Biostatistical Methods 1 &2, Statistical Consulting 1, Causal Analytics in Public Health
 
 **Point Loma Nazarene University, San Diego, CA** <br>
 *Aug 2013-May 2016*<br>
