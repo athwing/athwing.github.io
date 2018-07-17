@@ -1,11 +1,17 @@
 ### [About](https://athwing.github.io)  |  [Education](https://athwing.github.io/education) |  [Experience](https://athwing.github.io/experience)
 
 ### EXPERIENCE
-**University of Colorado, Anschutz Medical Campus, Aurora, CO** <br> *Aug 2016 –present*<br>
+**University of Colorado, Anschutz Medical Campus, Aurora, CO** <br> *Aug 2016 – May 2018*<br>
 *Graduate Research Assistant for Dr. Sharon Lutz in the Department of Biostatistics and Informatics*<br>
 •	Created various R packages to implement novel methods in statistical genetics on [Github](https://github.com/SharonLutz)<br>
 •	Created website for Dr Lutz on [github](https://sharonlutz.github.io/)<br>
 •	Created regional plots for GWAS of Coronary Artery Calcium<br>
+
+**University of Colorado, Anschutz Medical Campus, Aurora, CO** <br> *Aug 2016 –present*<br>
+*Masters Thesis: Mediated Pathways in Genetic Association Studies: A Comparison of Mendelian Randomization and Mediation Analysis Approaches*<br>
+•	Researched and coded in R mediation analysis and Mendelian Randomization methods
+• Coded and ran various simulation scenarios comparing the different methods
+• Submitted a manuscript for publication in Genetic Epidemiology
 
 **Point Loma Nazarene University, San Diego, CA** <br>*Sep 2015 –May 2016*<br>
 *Undergraduate Honors Project: Assessing Methods for Analyzing MacTel*<br>
