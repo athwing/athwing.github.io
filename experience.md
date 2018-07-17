@@ -7,7 +7,7 @@
 •	Created website for Dr Lutz on [github](https://sharonlutz.github.io/)<br>
 •	Created regional plots for GWAS of Coronary Artery Calcium<br>
 
-**University of Colorado, Anschutz Medical Campus, Aurora, CO** <br> *Aug 2016 –present*<br>
+**University of Colorado, Anschutz Medical Campus, Aurora, CO** <br> *April 2018*<br>
 *Masters Thesis: Mediated Pathways in Genetic Association Studies: A Comparison of Mendelian Randomization and Mediation Analysis Approaches*<br>
 •	Researched and coded in R mediation analysis and Mendelian Randomization methods
 • Coded and ran various simulation scenarios comparing the different methods
