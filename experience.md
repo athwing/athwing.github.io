@@ -9,8 +9,8 @@
 
 **University of Colorado, Anschutz Medical Campus, Aurora, CO** <br> *April 2018*<br>
 *Masters Thesis: Mediated Pathways in Genetic Association Studies: A Comparison of Mendelian Randomization and Mediation Analysis Approaches*<br>
-•	Researched and coded in R mediation analysis and Mendelian Randomization methods
-• Coded and ran various simulation scenarios comparing the different methods
+•	Researched and coded in R mediation analysis and Mendelian Randomization methods<br>
+• Coded and ran various simulation scenarios comparing the different methods<br>
 • Submitted a manuscript for publication in Genetic Epidemiology
 
 **Point Loma Nazarene University, San Diego, CA** <br>*Sep 2015 –May 2016*<br>
