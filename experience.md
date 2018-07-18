@@ -24,7 +24,7 @@
 •	Held hours in the Math Learning Center to tutor fellow students<br>
 •	Graded and assisted during lab hours for 3 classes: UNIX and Python for Computational Science, Calculus Based Statistics, Mathematical Probability
 
-**Qualcomm Inc., San Diego, CA** <br> *May 2015 – Jul 2015*<br>
+**Qualcomm Inc., San Diego, CA** <br> *May 2015 – Aug 2015*<br>
 *Microsoft Project Server Systems Analyst*<br>
 •	Performed and documented quality checks on upgrades, ensuring that they did not cause adverse effects and that functionalities worked as advertised<br>
 •	Developed report requirements for software developers<br>
